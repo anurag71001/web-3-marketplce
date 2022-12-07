@@ -47,7 +47,7 @@ function Header({}: Props) {
                     <Image
                     className='h-full w-full object-contain'
                     alt='thirdweb logo'
-                    src = 'https://th.bing.com/th/id/R.e90b1a88095d09d8e45e0baa3fcf1c6d?rik=9UdMUB8xvN0YlA&riu=http%3a%2f%2fwww.pngpix.com%2fwp-content%2fuploads%2f2016%2f07%2fPNGPIX-COM-eBay-Logo-PNG-Transparent.png&ehk=lWgx%2bSECvLVZQnmD5WmPsu2xA142Y%2fo7C02RnXTWq0c%3d&risl=&pid=ImgRaw&r=0'
+                    src = 'https://www.iconpacks.net/icons/4/free-nft-logo-icon-13070-thumb.png'
                     width={100}
                     height={100}
                     />
